@@ -1,7 +1,7 @@
 ### Hi.. I'm Moss
 
 - I am a software engineer based in Kuala Lumpur, Malaysia
-- I have work experiences in backend development with Go, Java, Python, Nodejs
+- I have work experiences in backend development with Go, Java, Python, Javascript, PHP
 - I am open for new opportunities outside of Malaysia 🛫
 
 
