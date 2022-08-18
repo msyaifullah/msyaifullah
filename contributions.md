@@ -2,7 +2,7 @@
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
-| 1   | intial-commitment | **MERGED** | working on commitment | [PR link](https://beda.id) |
+| 1   | intial-commitment | **MERGED** | working on commitment | [PR link](https://github.com/msyaifullah/msyaifullah/pull/1) |
 
 ### Status Type
 
