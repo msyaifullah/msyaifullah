@@ -2,7 +2,6 @@
 
 - I am a software engineer based in Kuala Lumpur, Malaysia
 - I have work experiences in backend development with Go, Java, Python, Javascript, PHP
-- I am open for new opportunities outside of Malaysia 🛫
 
 
 <h5 align="center">You can connect with me here</h5>
